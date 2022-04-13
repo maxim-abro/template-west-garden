@@ -1,0 +1,11 @@
+@import './_vars';
+@import './main/header';
+@import './main/winner';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: $bg;
+}
